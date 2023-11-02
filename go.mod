@@ -1,4 +1,4 @@
-module github.com/Rachma-Nurhaliza-Parindra/backend
+module github.com/berkatauto/berkat-fescript
 
 go 1.20
 
